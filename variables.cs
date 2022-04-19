@@ -8,6 +8,7 @@ namespace MyApplication
     static void Main(string[] args)
     {
         // String
+
         string name = "John";
         Console.WriteLine(name);
 
@@ -15,6 +16,13 @@ namespace MyApplication
 
         int myNum = 15;
         Console.WriteLine(myNum);
+
+        //Create a variable without assigning the value, and assign the value later
+
+        int myNum2;
+        myNum2 = 15;
+
+        Console.WriteLine(myNum2)
 
         Console.ReadLine();
     }
