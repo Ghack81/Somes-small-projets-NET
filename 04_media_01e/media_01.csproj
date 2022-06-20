@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <EmbeddedResource LogicalName="chat" Include="res/img/chat.jpeg" />
+    <EmbeddedResource ManifestResourceName="strings" Include = "res/txt/strings.resources" />
+    <EmbeddedResource ManifestResourceName="strings" Include = "res/txt/strings.fr.resources" >
+      <Culture>fr</Culture>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+; Greetings
+hello = Hi, there !
+bye = Bye
+
