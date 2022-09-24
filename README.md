@@ -10,7 +10,7 @@ Si, il y aurait du contenus Open source, les sources seront fournis.
 - Chaques souces seront indiquées.
 
 1° Nouveau projet basé sur le Tutoriel vu sur LinkedIn Learning.
-   Ce code est libre de droit et suit le début d'aprentissage en C# qui couvre pas mal de concepte
+   Ce code est libre de droit et suit le début d'aprentissage en C# qui couvre pas mal de concept
    qui seront détailés au fur et à mesure.
 
 
