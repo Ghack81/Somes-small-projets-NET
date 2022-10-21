@@ -1,3 +1,4 @@
+//using .net6
 ﻿using System;
 
 namespace info_01
