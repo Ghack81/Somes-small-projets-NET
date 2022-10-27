@@ -17,6 +17,7 @@ p2.Name = "Wallace";
 p2.Age = 75;
 
 if (p2.Equals(p1))
-    Console.WriteLine("p2 and p1 have the same values.");
+//Not using System
+    System.Console.WriteLine("p2 and p1 have the same values.");
 
 // Output: p2 and p1 have the same values.
