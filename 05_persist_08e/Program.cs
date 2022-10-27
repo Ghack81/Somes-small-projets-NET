@@ -17,7 +17,7 @@ namespace persist_08
                 var cmd = cnct.CreateCommand();
                 cmd.CommandText = InitBase;
                 cmd.ExecuteNonQuery();
-
+                // Created a sql file for save DB
                 cmd.CommandText = @"
                     SELECT newsletter, nom, prenom 
                     FROM utilisateurs 

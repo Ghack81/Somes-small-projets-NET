@@ -1,10 +1,11 @@
+//using .net6
 ﻿using System;
 
 namespace info_01
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args )
         {
             var liste = @"pique 
                 cœur
