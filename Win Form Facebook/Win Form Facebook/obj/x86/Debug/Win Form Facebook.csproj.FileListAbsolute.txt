@@ -1,0 +1,18 @@
+C:\Users\herve\Documents\Microsoft\C#\Win Form Facebook\Win Form Facebook\bin\Debug\Win Form Facebook.exe
+C:\Users\herve\Documents\Microsoft\C#\Win Form Facebook\Win Form Facebook\bin\Debug\Win Form Facebook.pdb
+C:\Users\herve\Documents\Microsoft\C#\Win Form Facebook\Win Form Facebook\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\herve\Documents\Microsoft\C#\Win Form Facebook\Win Form Facebook\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\herve\Documents\Microsoft\C#\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.csproj.GenerateResource.Cache
+C:\Users\herve\Documents\Microsoft\C#\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.exe
+C:\Users\herve\Documents\Microsoft\C#\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.pdb
+G:\Hervé\Win Form Facebook\Win Form Facebook\bin\Debug\Win Form Facebook.exe.config
+G:\Hervé\Win Form Facebook\Win Form Facebook\bin\Debug\Win Form Facebook.exe
+G:\Hervé\Win Form Facebook\Win Form Facebook\bin\Debug\Win Form Facebook.pdb
+G:\Hervé\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.csproj.AssemblyReference.cache
+G:\Hervé\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.csproj.SuggestedBindingRedirects.cache
+G:\Hervé\Win Form Facebook\Win Form Facebook\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\Hervé\Win Form Facebook\Win Form Facebook\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Hervé\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.csproj.GenerateResource.cache
+G:\Hervé\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.csproj.CoreCompileInputs.cache
+G:\Hervé\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.exe
+G:\Hervé\Win Form Facebook\Win Form Facebook\obj\x86\Debug\Win Form Facebook.pdb
