@@ -1,0 +1,12 @@
+﻿<Window x:Class="Stackpanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+        <StackPanel>
+            <Button Name="b1" Content="Premier bouton" Click="b1_Click" />
+            <Button Name="b2" Content="Deuxieme bouton" Click="b2_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

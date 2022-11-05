@@ -1,0 +1,22 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\bin\Debug\Stackpanel.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\bin\Debug\Stackpanel.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\MainWindow.baml
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\App.g.cs
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\Stackpanel_MarkupCompile.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\Stackpanel.g.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\Stackpanel.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\Stackpanel.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\Stackpanel.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Stackpanel\obj\x86\Debug\Stackpanel.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\Stackpanel.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\Stackpanel.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\bin\Debug\Stackpanel.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\bin\Debug\Stackpanel.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\Stackpanel_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\Stackpanel.g.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\Stackpanel.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Stackpanel\Stackpanel\obj\x86\Debug\Stackpanel.csproj.GenerateResource.Cache
