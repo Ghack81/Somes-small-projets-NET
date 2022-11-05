@@ -1,0 +1,6 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Varibles\bin\Debug\Varibles.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Varibles\bin\Debug\Varibles.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Varibles\obj\x86\Debug\Varibles.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Varibles\obj\x86\Debug\Varibles.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Varibles\Varibles\obj\x86\Debug\Varibles.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Varibles\Varibles\obj\x86\Debug\Varibles.pdb
