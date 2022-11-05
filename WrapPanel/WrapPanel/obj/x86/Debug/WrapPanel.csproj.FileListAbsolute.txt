@@ -1,0 +1,13 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\bin\Debug\WrapPanel.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\bin\Debug\WrapPanel.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\MainWindow.baml
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\App.g.cs
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\WrapPanel_MarkupCompile.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\WrapPanel.g.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\WrapPanel.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\WrapPanel.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\WrapPanel.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\WrapPanel\obj\x86\Debug\WrapPanel.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.pdb

@@ -1,0 +1,12 @@
+﻿<Window x:Class="WrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <WrapPanel Width="400">
+            <Button Name="b1" Content="Bouton 1" Height="120" Width="401" Click="b1_Click" />
+            <Button Name="b2" Content="Bouton 2" Height="79" Width="401" Click="b2_Click" />
+            
+        </WrapPanel>
+    </Grid>
+</Window>
