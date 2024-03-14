@@ -1,0 +1,38 @@
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\bin\Debug\TTS en Csharp.exe
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\bin\Debug\TTS en Csharp.pdb
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\obj\x86\Debug\TTS_en_Csharp.Form1.resources
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\obj\x86\Debug\TTS_en_Csharp.Properties.Resources.resources
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\obj\x86\Debug\TTS en Csharp.exe
+C:\Users\maxituc\AppData\Local\Temporary Projects\TTS en Csharp\obj\x86\Debug\TTS en Csharp.pdb
+C:\Users\maxituc\documents\visual studio 2010\Projects\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.exe
+C:\Users\maxituc\documents\visual studio 2010\Projects\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.pdb
+C:\Users\maxituc\Documents\Visual Studio 2010\Projects\TTS en Csharp\TTS en Csharp\bin\Debug\TTS en Csharp.exe
+C:\Users\maxituc\Documents\Visual Studio 2010\Projects\TTS en Csharp\TTS en Csharp\bin\Debug\TTS en Csharp.pdb
+C:\Users\maxituc\Documents\Visual Studio 2010\Projects\TTS en Csharp\TTS en Csharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maxituc\Documents\Visual Studio 2010\Projects\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS_en_Csharp.Form1.resources
+C:\Users\maxituc\Documents\Visual Studio 2010\Projects\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS_en_Csharp.Properties.Resources.resources
+C:\Users\maxituc\Documents\Visual Studio 2010\Projects\TTS en Csharp\TTS en Csharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maxituc\Documents\Visual Studio 2010\Projects\TTS en Csharp\TTS en Csharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\bin\Debug\TTS en Csharp.exe
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\bin\Debug\TTS en Csharp.pdb
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.csprojAssemblyReference.cache
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS_en_Csharp.Form1.resources
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS_en_Csharp.Properties.Resources.resources
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.csproj.GenerateResource.cache
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.csproj.CoreCompileInputs.cache
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.exe
+C:\Users\herve\OneDrive\Bureau\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.pdb
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\bin\Debug\TTS en Csharp.exe.config
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\bin\Debug\TTS en Csharp.exe
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\bin\Debug\TTS en Csharp.pdb
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.csproj.AssemblyReference.cache
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.csproj.SuggestedBindingRedirects.cache
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS_en_Csharp.Form1.resources
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS_en_Csharp.Properties.Resources.resources
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.csproj.GenerateResource.cache
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.csproj.CoreCompileInputs.cache
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.exe
+E:\Projets-en-c#\Tutoriel  Faites parler vos applications en .NET\TTS en Csharp\TTS en Csharp\TTS en Csharp\obj\x86\Debug\TTS en Csharp.pdb
